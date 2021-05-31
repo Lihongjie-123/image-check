@@ -1,0 +1,359 @@
+2021-05-28 23:11:47,083 ERROR image_path param is None or empty, please check it.
+2021-05-28 23:11:47,083 ERROR options:
+id = 0
+logconfig = D:/Work/SourceCode/owner-source/image-check\etc\log.conf
+image_path = None
+xml_path = None
+2021-05-28 23:23:43,886 INFO 开始处理D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images文件
+2021-05-28 23:23:43,886 INFO 处理结束
+2021-05-28 23:24:18,926 INFO 开始处理D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images图片，D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels标注文件
+2021-05-28 23:24:18,926 INFO 处理结束
+2021-05-28 23:24:35,113 INFO 开始处理D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images图片
+开始处理D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels标注文件
+2021-05-28 23:24:35,150 INFO 处理结束
+2021-05-28 23:24:49,209 INFO 开始处理D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images图片，开始处理D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels标注文件
+2021-05-28 23:24:49,210 INFO 处理结束
+2021-05-28 23:24:59,995 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-28 23:24:59,995 INFO 处理结束
+2021-05-28 23:26:29,055 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-28 23:26:29,056 INFO ['D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images']
+2021-05-28 23:26:29,056 INFO ['D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels']
+2021-05-28 23:26:29,056 INFO 处理结束
+2021-05-28 23:27:11,661 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-28 23:27:11,661 INFO ['D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843022395_20200107094904.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843022395_20200107144904.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843022395_20200108084903_res.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843022395_20200108094904.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843022395_20200108134904_res.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843022395_20200109094904_res.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843023125_20200104085604.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843023125_20200104095604.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843023252_20200108175204.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843023781_20200101130002.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843023781_20200101150002.jpg', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\images\\99000843023781_20200103140003.jpg']
+2021-05-28 23:27:11,662 INFO ['D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843022395_20200107094904.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843022395_20200107144904.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843022395_20200108084903_res.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843022395_20200108094904.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843022395_20200108134904_res.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843022395_20200109094904_res.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843023125_20200104085604.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843023125_20200104095604.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843023252_20200108175204.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843023781_20200101130002.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843023781_20200101150002.xml', 'D:\\Work\\SourceCode\\owner-source\\image-check\\test_data\\123456789\\xml_labels\\99000843023781_20200103140003.xml']
+2021-05-28 23:27:11,662 INFO 处理结束
+2021-05-28 23:52:01,951 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-28 23:52:01,953 INFO 本次处理图片3张
+2021-05-28 23:52:01,953 INFO 本次处理图片3张
+2021-05-28 23:52:01,953 INFO 本次处理图片3张
+2021-05-28 23:52:01,953 INFO 本次处理图片3张
+2021-05-28 23:52:01,954 INFO 处理结束
+2021-05-29 00:02:18,309 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:02:18,312 INFO 本次处理图片3张
+2021-05-29 00:02:18,313 INFO 本次处理图片3张
+2021-05-29 00:02:18,313 INFO 本次处理图片3张
+2021-05-29 00:02:18,313 INFO 本次处理图片3张
+2021-05-29 00:02:18,314 INFO 处理结束
+2021-05-29 00:09:08,609 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:09:08,610 INFO 本次处理图片3张
+2021-05-29 00:09:08,611 INFO 本次处理图片3张
+2021-05-29 00:09:08,611 INFO 本次处理图片3张
+2021-05-29 00:09:08,611 INFO 本次处理图片3张
+2021-05-29 00:09:08,612 INFO 处理结束
+2021-05-29 00:09:31,813 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:09:31,814 INFO 本次处理图片3张
+2021-05-29 00:09:31,814 INFO 本次处理图片3张
+2021-05-29 00:09:31,814 INFO 本次处理图片3张
+2021-05-29 00:09:31,815 INFO 本次处理图片3张
+2021-05-29 00:09:31,815 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:09:31,815 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:09:31,815 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:09:31,815 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:09:31,815 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:09:31,815 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:09:31,816 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:09:31,816 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:09:31,816 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:09:31,816 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:09:31,816 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:09:31,816 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:09:31,817 INFO 处理结束
+2021-05-29 00:10:19,786 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:10:19,787 INFO 本次处理图片3张
+2021-05-29 00:10:19,787 INFO 本次处理图片3张
+2021-05-29 00:10:19,787 INFO 本次处理图片3张
+2021-05-29 00:10:19,787 INFO 本次处理图片3张
+2021-05-29 00:10:19,787 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:10:19,788 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:10:19,789 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:10:19,789 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:10:19,789 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:10:19,789 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:10:19,789 INFO 处理结束
+2021-05-29 00:10:35,300 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:10:35,301 INFO 本次处理图片3张
+2021-05-29 00:10:35,302 INFO 本次处理图片3张
+2021-05-29 00:10:35,302 INFO 本次处理图片3张
+2021-05-29 00:10:35,302 INFO 本次处理图片4张
+2021-05-29 00:10:35,302 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:10:35,303 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:10:35,304 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:10:35,304 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:10:35,304 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:10:35,304 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:10:35,304 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:10:35,304 INFO 处理结束
+2021-05-29 00:15:30,446 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:15:30,447 INFO 本次处理图片3张
+2021-05-29 00:15:30,448 INFO 本次处理图片3张
+2021-05-29 00:15:30,448 INFO 本次处理图片3张
+2021-05-29 00:15:30,448 INFO 本次处理图片4张
+2021-05-29 00:15:30,448 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:15:30,448 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:15:30,448 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:15:30,448 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:15:30,449 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:15:30,450 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:15:30,450 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:15:30,450 INFO 处理结束
+2021-05-29 00:23:22,433 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:23:22,435 INFO 本次处理图片3张
+2021-05-29 00:23:22,436 INFO 本次处理图片3张
+2021-05-29 00:23:22,436 INFO 本次处理图片3张
+2021-05-29 00:23:22,436 INFO 本次处理图片4张
+2021-05-29 00:23:22,436 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:23:22,436 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:23:22,437 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:23:22,438 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:23:22,438 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:23:22,438 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:23:22,438 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:23:22,438 INFO 处理结束
+2021-05-29 00:23:37,973 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:23:37,977 INFO 本次处理图片3张
+2021-05-29 00:23:37,978 INFO 本次处理图片3张
+2021-05-29 00:23:37,979 INFO 本次处理图片3张
+2021-05-29 00:23:37,979 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:23:37,979 INFO 本次处理图片5张
+2021-05-29 00:23:37,979 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:23:37,980 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:23:37,980 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:23:37,980 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:23:37,980 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:23:37,981 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:23:37,981 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:23:37,981 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:23:37,981 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:23:37,982 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:23:37,982 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:23:37,983 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:23:37,983 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0
+2021-05-29 00:23:37,983 INFO 处理结束
+2021-05-29 00:24:19,065 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:24:19,067 INFO 本次处理图片3张
+2021-05-29 00:24:19,067 INFO 本次处理图片3张
+2021-05-29 00:24:19,067 INFO 本次处理图片3张
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:24:19,068 INFO 本次处理图片5张
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:24:19,068 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:24:19,069 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:24:19,069 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:24:19,069 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:24:19,069 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:24:19,069 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:24:19,070 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:24:19,070 ERROR 暂不支持图片格式为txt
+2021-05-29 00:24:19,070 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0
+2021-05-29 00:24:19,070 INFO 处理结束
+2021-05-29 00:24:58,915 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:24:58,917 INFO 本次处理图片3张
+2021-05-29 00:24:58,917 INFO 本次处理图片3张
+2021-05-29 00:24:58,918 INFO 本次处理图片3张
+2021-05-29 00:24:58,918 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:24:58,918 INFO 本次处理图片5张
+2021-05-29 00:24:58,918 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:24:58,918 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:24:58,919 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:24:58,919 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:24:58,919 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:24:58,919 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:24:58,919 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:24:58,919 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:24:58,920 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:24:58,920 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:24:58,920 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:24:58,920 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:24:58,920 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:24:58,921 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0
+2021-05-29 00:24:58,921 INFO 处理结束
+2021-05-29 00:29:33,364 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:29:33,366 INFO 本次处理图片3张
+2021-05-29 00:29:33,367 INFO 本次处理图片3张
+2021-05-29 00:29:33,367 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107094904.jpg大小为：1353690
+2021-05-29 00:29:33,367 INFO 本次处理图片3张
+2021-05-29 00:29:33,368 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108094904.jpg大小为：1217768
+2021-05-29 00:29:33,368 INFO 本次处理图片5张
+2021-05-29 00:29:33,368 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200107144904.jpg大小为：1370282
+2021-05-29 00:29:33,368 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104085604.jpg大小为：1217458
+2021-05-29 00:29:33,368 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108134904_res.jpg大小为：420393
+2021-05-29 00:29:33,368 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101130002.jpg大小为：1019634
+2021-05-29 00:29:33,369 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200108084903_res.jpg大小为：329622
+2021-05-29 00:29:33,369 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023125_20200104095604.jpg大小为：1286954
+2021-05-29 00:29:33,369 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843022395_20200109094904_res.jpg大小为：303162
+2021-05-29 00:29:33,369 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200101150002.jpg大小为：1200737
+2021-05-29 00:29:33,369 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023252_20200108175204.jpg大小为：1801725
+2021-05-29 00:29:33,370 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\99000843023781_20200103140003.jpg大小为：1049511
+2021-05-29 00:29:33,370 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:29:33,370 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:29:33,370 INFO 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0
+2021-05-29 00:29:33,370 INFO 处理结束
+2021-05-29 00:30:08,498 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:30:08,500 INFO 本次处理图片3张
+2021-05-29 00:30:08,501 INFO 本次处理图片3张
+2021-05-29 00:30:08,501 INFO 本次处理图片3张
+2021-05-29 00:30:08,501 INFO 本次处理图片5张
+2021-05-29 00:30:08,502 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:30:08,502 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:30:08,502 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0
+2021-05-29 00:30:08,502 INFO 处理结束
+2021-05-29 00:30:17,771 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:30:17,774 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0
+2021-05-29 00:30:17,775 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:30:17,775 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0
+2021-05-29 00:30:17,775 INFO 处理结束
+2021-05-29 00:30:33,601 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:30:33,604 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:30:33,604 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:30:33,604 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0B
+2021-05-29 00:30:33,604 INFO 处理结束
+2021-05-29 00:30:51,658 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:30:51,660 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:30:51,660 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:30:51,660 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt大小为：0B
+2021-05-29 00:30:51,660 INFO 处理结束
+2021-05-29 00:32:00,702 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:32:00,706 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:32:00,706 ERROR 
+Traceback (most recent call last):
+  File "D:\Work\SourceCode\owner-source\image-check\src\process\image_action.py", line 19, in image_check
+    assert self.check_image_size(img)
+AssertionError
+2021-05-29 00:32:00,706 INFO 处理结束
+2021-05-29 00:32:47,558 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:32:47,562 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:32:47,562 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:32:47,562 INFO 处理结束
+2021-05-29 00:33:12,163 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:33:12,166 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:33:12,166 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:33:12,166 INFO 处理结束
+2021-05-29 00:40:51,754 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:40:51,924 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:40:51,925 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png, 暂不支持图片格式为png
+2021-05-29 00:40:51,925 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:40:51,935 INFO 处理结束
+2021-05-29 00:41:42,489 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:41:42,593 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:41:42,593 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png大小为：0B
+2021-05-29 00:41:42,593 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:41:42,605 INFO 处理结束
+2021-05-29 00:42:00,205 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 00:42:00,309 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 00:42:00,411 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 00:42:00,412 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 00:42:00,412 INFO 处理结束
+2021-05-29 01:09:24,760 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 01:09:24,865 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 01:09:24,967 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 01:09:24,967 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 01:09:24,967 INFO 处理结束
+2021-05-29 01:53:33,743 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 01:53:33,860 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 01:53:33,963 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 01:53:33,963 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 01:53:33,963 INFO 处理结束
+2021-05-29 01:56:01,581 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 01:56:01,695 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 01:56:01,796 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 01:56:01,796 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 01:56:01,797 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 01:56:01,799 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 01:56:01,799 ERROR [WinError 3] 系统找不到指定的路径。: 'D:/Work/SourceCode/owner-source/image-check\\var\\output\\images'
+Traceback (most recent call last):
+  File "D:/Work/SourceCode/owner-source/image-check/src/main/application.py", line 83, in process
+    result_store.file_rename_and_move(options.output_path)
+  File "D:\Work\SourceCode\owner-source\image-check\src\process\result_store.py", line 52, in file_rename_and_move
+    os.mkdir(output_image_dir)
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:/Work/SourceCode/owner-source/image-check\\var\\output\\images'
+2021-05-29 01:56:01,800 INFO 处理结束
+2021-05-29 01:57:31,332 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 01:57:31,440 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 01:57:31,543 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 01:57:31,544 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 01:57:31,544 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 01:57:31,546 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 01:57:31,547 ERROR [WinError 3] 系统找不到指定的路径。: 'D:/Work/SourceCode/owner-source/image-check\\var\\output\\images'
+Traceback (most recent call last):
+  File "D:/Work/SourceCode/owner-source/image-check/src/main/application.py", line 83, in process
+    result_store.file_rename_and_move(options.output_path)
+  File "D:\Work\SourceCode\owner-source\image-check\src\process\result_store.py", line 52, in file_rename_and_move
+    os.mkdir(output_image_dir)
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:/Work/SourceCode/owner-source/image-check\\var\\output\\images'
+2021-05-29 01:57:31,547 INFO 处理结束
+2021-05-29 01:57:36,309 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 01:57:36,447 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 01:57:36,585 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 01:57:36,585 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 01:57:36,586 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 01:57:36,588 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 02:00:48,590 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 02:00:48,700 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 02:00:48,804 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 02:00:48,804 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 02:00:48,804 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 02:00:48,806 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 02:00:48,807 ERROR [WinError 3] 系统找不到指定的路径。: 'D:\\Work\\SourceCode\\owner-source\\image-check\\var\\output\\images'
+Traceback (most recent call last):
+  File "D:/Work/SourceCode/owner-source/image-check/src/main/application.py", line 83, in process
+    result_store.file_rename_and_move(options.output_path)
+  File "D:\Work\SourceCode\owner-source\image-check\src\process\result_store.py", line 57, in file_rename_and_move
+    os.mkdir(output_image_dir)
+FileNotFoundError: [WinError 3] 系统找不到指定的路径。: 'D:\\Work\\SourceCode\\owner-source\\image-check\\var\\output\\images'
+2021-05-29 02:00:48,807 INFO 处理结束
+2021-05-29 02:01:04,363 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 02:01:04,498 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 02:01:04,633 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 02:01:04,634 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 02:01:04,634 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 02:01:04,636 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 02:02:01,892 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 02:02:02,002 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 02:02:02,101 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 02:02:02,102 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 02:02:02,102 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 02:02:02,104 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 02:02:02,272 INFO 处理结束
+2021-05-29 02:04:05,598 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 02:04:05,708 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 02:04:05,810 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 02:04:05,810 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 02:04:05,811 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 02:04:05,813 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 02:04:05,941 INFO 处理结束
+2021-05-29 02:06:20,551 INFO 开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images 图片，开始处理 D:\Work\SourceCode\owner-source\image-check\test_data\123456789\xml_labels 标注文件
+2021-05-29 02:06:20,663 ERROR 文件D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aaaaa.jpg大小为：0B
+2021-05-29 02:06:20,766 ERROR 图片D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\aas.png格式已损坏
+2021-05-29 02:06:20,767 ERROR 检测到图片：D:\Work\SourceCode\owner-source\image-check\test_data\123456789\images\新建文本文档.txt, 暂不支持图片格式为txt
+2021-05-29 02:06:20,805 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file
+2021-05-29 02:06:20,807 INFO save bad info to bad file: D:\Work\SourceCode\owner-source\image-check\var\bad\bad_file finished..........
+2021-05-29 02:06:20,901 INFO 处理结束

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>99000843022395_20200107094904-asdasdafadsfa.jpg</filename>
+	<path>/home/nfs/example/data/Demo-shudianxianlu/images/99000843022395_20200107094904-asdasdafadsfa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tadiao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1637</xmin>
+			<ymin>184</ymin>
+			<xmax>2467</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gouche</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>945</xmin>
+			<ymin>895</ymin>
+			<xmax>1122</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+</annotation>

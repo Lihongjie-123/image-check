@@ -1,0 +1,1 @@
+检查image和xml是否一致，image文件是否有问题

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>72429c4c92ebc2ee2d66c29189b560ed.jpg</filename>
+	<path>D:\Work\SourceCode\owner-source\image-check\var\output\images\72429c4c92ebc2ee2d66c29189b560ed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gouche</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>1706</ymin>
+			<xmax>1122</xmax>
+			<ymax>1932</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,6 @@
+include README.txt 
+include requirements.txt test-requirements.txt tox.ini
+recursive-include test *.py
+recursive-include src *.py
+recursive-include bin *.*
+recursive-include etc *.*

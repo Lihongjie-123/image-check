@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>images</folder>
+	<filename>99000843023252_20200108175204.jpg</filename>
+	<path>/home/nfs/example/data/Demo-shudianxianlu/images/99000843023252_20200108175204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gouche</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>1706</ymin>
+			<xmax>1122</xmax>
+			<ymax>1932</ymax>
+		</bndbox>
+	</object>
+</annotation>

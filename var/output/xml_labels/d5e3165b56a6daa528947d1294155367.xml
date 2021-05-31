@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d5e3165b56a6daa528947d1294155367.jpg</filename>
+	<path>D:\Work\SourceCode\owner-source\image-check\var\output\images\d5e3165b56a6daa528947d1294155367.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tadiao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>848</ymin>
+			<xmax>1062</xmax>
+			<ymax>1011</ymax>
+		</bndbox>
+	</object>
+</annotation>
